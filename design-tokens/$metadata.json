@@ -1,0 +1,27 @@
+{
+  "tokenSetOrder": [
+    "primitives/globals",
+    "primitives/modes/size/small",
+    "primitives/modes/size/medium",
+    "primitives/modes/size/large",
+    "primitives/modes/size/global",
+    "primitives/modes/typography/size/small",
+    "primitives/modes/typography/size/medium",
+    "primitives/modes/typography/size/large",
+    "primitives/modes/typography/primary/sjomatrod",
+    "primitives/modes/typography/secondary/sjomatrod",
+    "primitives/modes/color-scheme/dark/sjomatrod",
+    "primitives/modes/color-scheme/light/sjomatrod",
+    "themes/sjomatrod",
+    "semantic/color",
+    "semantic/modes/main-color/primary",
+    "semantic/modes/main-color/accent",
+    "semantic/modes/main-color/light",
+    "semantic/modes/main-color/white",
+    "semantic/modes/support-color/coolGray1",
+    "semantic/modes/support-color/coolGray4",
+    "semantic/modes/support-color/orange",
+    "semantic/modes/support-color/red",
+    "semantic/style"
+  ]
+}

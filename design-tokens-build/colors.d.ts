@@ -1,0 +1,24 @@
+/* This file is deprecated and will be removed in a future release. Use types.d.ts instead */
+/* build: v1.9.0 */
+import type {} from '@digdir/designsystemet-types';
+
+// Augment types based on theme
+declare module '@digdir/designsystemet-types' {
+  export interface ColorDefinitions {
+    primary: never;
+    accent: never;
+    light: never;
+    white: never;
+    'cool-gray1': never;
+    'cool-gray4': never;
+    orange: never;
+    red: never;
+    neutral: never;
+  }
+  export interface SeverityColorDefinitions {
+    info: never;
+    success: never;
+    warning: never;
+    danger: never;
+  }
+}

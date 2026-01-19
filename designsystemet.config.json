@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/@digdir/designsystemet/dist/config.schema.json",
+  "outDir": "./design-tokens",
+  "themes": {
+    "sjomatrod": {
+      "colors": {
+        "main": {
+          "primary": "#001E64",
+          "accent": "#0087CC",
+          "light": "#85C9F0",
+          "white": "#FFFFFF"
+        },
+        "support": {
+          "coolGray1": "#D9D9D6",
+          "coolGray4": "#BBBCBC",
+          "orange": "#E87722",
+          "red": "#C8102E"
+        },
+        "neutral": "#BBBCBC"
+      },
+      "borderRadius": 4
+    }
+  }
+}
+

@@ -1,0 +1,167 @@
+[
+  {
+    "id": "8b2c8cc86611a34b135cb22948666779361fd729",
+    "name": "medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/medium": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/medium": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:1",
+    "group": "Size"
+  },
+  {
+    "id": "d49b9eebeb48a4f165a74b7261733d0a73370f0e",
+    "name": "large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/large": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/large": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:2",
+    "group": "Size"
+  },
+  {
+    "id": "fb11567729c298ca37c9da4e3a27716a23480824",
+    "name": "small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "primitives/modes/size/small": "source",
+      "primitives/modes/size/global": "enabled",
+      "primitives/modes/typography/size/small": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:36248:20757",
+    "$figmaModeId": "41630:3",
+    "group": "Size"
+  },
+  {
+    "id": "2b9f5ca18c0858830b298955ea6c6cef85e96037",
+    "$figmaCollectionId": "VariableCollectionId:36528:61712",
+    "$figmaModeId": "40960:6",
+    "name": "sjomatrod",
+    "selectedTokenSets": {
+      "themes/sjomatrod": "enabled"
+    },
+    "group": "Theme"
+  },
+  {
+    "id": "368d753fcac4455f289500eaa42e70dc0a03522f",
+    "$figmaCollectionId": "VariableCollectionId:36248:20769",
+    "$figmaModeId": "36248:2",
+    "name": "Primary",
+    "selectedTokenSets": {
+      "primitives/modes/typography/primary/sjomatrod": "enabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "264b8bd1d40b364e1ea3acf09e49795ddd4c513c",
+    "$figmaCollectionId": "VariableCollectionId:36248:20769",
+    "$figmaModeId": "36248:3",
+    "name": "Secondary",
+    "selectedTokenSets": {
+      "primitives/modes/typography/secondary/sjomatrod": "enabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "name": "Dark",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/dark/sjomatrod": "enabled"
+    },
+    "id": "9ebd8aed52afbffc17e2666e8b4653a53498b257",
+    "$figmaCollectionId": "VariableCollectionId:34811:5472",
+    "$figmaModeId": "34811:1",
+    "group": "Color scheme"
+  },
+  {
+    "name": "Light",
+    "selectedTokenSets": {
+      "primitives/modes/color-scheme/light/sjomatrod": "enabled"
+    },
+    "id": "0daa3ca0b427b9349da7e7dc00101b5668972926",
+    "$figmaCollectionId": "VariableCollectionId:34811:5472",
+    "$figmaModeId": "34811:0",
+    "group": "Color scheme"
+  },
+  {
+    "id": "541629445ef90ad5363f9e88f52a1ccb617e6f84",
+    "name": "Semantic",
+    "selectedTokenSets": {
+      "semantic/style": "enabled",
+      "semantic/color": "enabled",
+      "primitives/globals": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:34811:5976",
+    "$figmaModeId": "34811:5",
+    "group": "Semantic"
+  },
+  {
+    "id": "593774a74235b661fff40693ca7bda160aadfb74",
+    "name": "primary",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/primary": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "77029e975ec86efe4b92eb0be546d61959085bd1",
+    "name": "accent",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/accent": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "b80e5aab20170ba761d21a46405819ff879efbac",
+    "name": "light",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/light": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "923bf53f6f88c424626850d702b58ef6aaeef195",
+    "name": "white",
+    "selectedTokenSets": {
+      "semantic/modes/main-color/white": "enabled"
+    },
+    "group": "Main color"
+  },
+  {
+    "id": "3d2df16ce0132f54ec1a79aa4bc92d2534635f11",
+    "name": "coolGray1",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/coolGray1": "enabled"
+    },
+    "group": "Support color"
+  },
+  {
+    "id": "ca8ab8ce36fd9f2b5bde4cc13da31cc3b5ce3a70",
+    "name": "coolGray4",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/coolGray4": "enabled"
+    },
+    "group": "Support color"
+  },
+  {
+    "id": "c9b9d82c7b3767e86cbb548b0055f8c64e2c651a",
+    "name": "orange",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/orange": "enabled"
+    },
+    "group": "Support color"
+  },
+  {
+    "id": "39553ff15fc38d5d32fe8a548dffc3f559b95caf",
+    "name": "red",
+    "selectedTokenSets": {
+      "semantic/modes/support-color/red": "enabled"
+    },
+    "group": "Support color"
+  }
+]
